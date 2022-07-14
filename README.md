@@ -1,4 +1,5 @@
-https://github.com/mgbell/defaultnameservers## List of Default Reseller Nameservers
+## List of Default Reseller Nameservers
+
 
 **GoDaddy:**\
 nsxx.domaincontrol.com
