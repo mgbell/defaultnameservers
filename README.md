@@ -4,6 +4,10 @@
 **123-Reg:**\
 **Names:**\
 **Heart Internet:**\
+ns.heartinternet.co.uk\
+ns2.heartinternet.co.uk\
+ns.mainnameserver.com\
+ns2.mainnameserver.com\
 **EasySpace:**\
 **UK2:**\
 **Bluehosts:**\
