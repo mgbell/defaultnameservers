@@ -1,21 +1,20 @@
-## List of Default Reseller Nameservers
+https://github.com/mgbell/defaultnameservers## List of Default Reseller Nameservers
 
-**GoDaddy:**
+**GoDaddy:**\
 nsxx.domaincontrol.com
 
-**123-Reg:**
+**123-Reg:**\
 nsxx.domaincontrol.com
 
-**Names (Namesco):**
-ns0.phase8.net
-ns1.phase8.net
+**Names (Namesco):**\
+ns0.phase8.net\
+ns1.phase8.net\
 ns2.phase8.net
 
-**Heart Internet:**
-
-ns.heartinternet.co.uk
-ns2.heartinternet.co.uk
-ns.mainnameserver.com
+**Heart Internet:**\
+ns.heartinternet.co.uk\
+ns2.heartinternet.co.uk\
+ns.mainnameserver.com\
 ns2.mainnameserver.com
 
 **EasySpace:**
@@ -24,9 +23,9 @@ ns2.mainnameserver.com
 
 **Bluehosts:**
 
-**Dreamhost:**
-ns1.dreamhost.com
-ns2.dreamhost.com
+**Dreamhost:**\
+ns1.dreamhost.com\
+ns2.dreamhost.com\
 ns3.dreamhost.com
 
 **Namecheap:**
@@ -45,7 +44,7 @@ ns3.dreamhost.com
 
 **eNom:**
 
-**FastHosts:**
-ns1.livedns.co.uk
-ns2.livedns.co.uk
+**FastHosts:**\
+ns1.livedns.co.uk\
+ns2.livedns.co.uk\
 ns3.livedns.co.uk
